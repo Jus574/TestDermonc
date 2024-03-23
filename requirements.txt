@@ -157,13 +157,6 @@ PyQt5-sip
 pyrsistent
 PySocks
 python-dateutil
-pytz
-PyWavelets
-pywin32
-pywin32-ctypes
-pywinpty
-PyYAML
-pyzmq
 QtPy
 readme-renderer
 requests
