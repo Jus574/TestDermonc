@@ -165,9 +165,6 @@ requests-toolbelt
 rfc3986
 rich
 rsa
-ruamel.yaml
-ruamel.yaml.clib
-ruamel-yaml-conda
 s3transfer
 scikit-image
 scikit-learn
