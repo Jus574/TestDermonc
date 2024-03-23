@@ -96,5 +96,3 @@ def upload_file():
     return render_template("result.html", result=ressu, img_path=file_name, disease=dis)
 
 
-if __name__ == "__main__":
-    app.run(debug=True)
