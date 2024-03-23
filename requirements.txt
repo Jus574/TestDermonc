@@ -105,7 +105,6 @@ ml-dtypes
 more-itertools
 mpmath
 murmurhash
-navigator-updater
 nbclassic
 nbclient
 nbconvert
@@ -113,8 +112,6 @@ nbformat
 nest-asyncio
 networkx
 nh3
-notebook
-notebook_shim
 numexpr
 numpy
 nvidia-ml-py3
