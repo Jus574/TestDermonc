@@ -100,7 +100,6 @@ MarkupSafe
 matplotlib
 matplotlib-inline
 mdurl
-menuinst
 mistune
 ml-dtypes
 more-itertools
