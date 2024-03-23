@@ -193,7 +193,6 @@ tensorboard-plugin-wit
 tensorflow
 tensorflow-estimator
 tensorflow-intel
-tensorflow-io-gcs-filesystem
 termcolor
 terminado
 tf-estimator-nightly
